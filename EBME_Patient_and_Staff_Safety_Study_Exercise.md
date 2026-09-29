@@ -1,6 +1,6 @@
 # Patient and staff safety in medical-device management
 
-**Prepared for:** Dominic Iwuanyanwu  
+**Prepared for:** Chidera Dominic Iwuanyanwu  
 **Date prepared:** 29 September 2026  
 **Status:** Draft, AI-assisted independent-study exercise for personal review and revision  
 **Scope:** Hypothetical infusion pump in a hospital equipment library; no real device, patient, service record or incident was used.
