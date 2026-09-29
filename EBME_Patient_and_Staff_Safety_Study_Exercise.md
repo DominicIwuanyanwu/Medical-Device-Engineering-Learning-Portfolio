@@ -1,8 +1,8 @@
 # Patient and staff safety in medical-device management
 
-**Prepared for:** Dominic Iwuanyanwu  
+**Prepared for:** Chidera Dominic Iwuanyanwu  
 **Date prepared:** 29 September 2026  
-**Status:** Draft, AI-assisted independent-study exercise for personal review and revision  
+**Status:** AI-assisted independent-study exercise for personal review and revision  
 **Scope:** Hypothetical infusion pump in a hospital equipment library; no real device, patient, service record or incident was used.
 
 > **Portfolio disclosure:** This is independent study and a simulated medical-device safety exercise. It does not demonstrate patient use, clinical validation, authorised device maintenance, device-specific competence, or conformity with ISO 14971.
@@ -64,6 +64,6 @@ This is a conceptual flow only. Actual preservation, decontamination, manufactur
 
 My observations from reading the MHRA guidance, including the alternative-battery example, the CT-scanner usability question, the meaning of UK MDR 2002 and the specific changes I made to this exercise, are in [MHRA reading reflections and changes](MHRA_Reading_Reflections_and_Changes.md).
 
-## Next evidence to build
+## Next evidence to build on
 
-Seek supervised EBME shadowing or an assistant/trainee role, learn the trust’s equipment library and incident procedures, and complete device-specific manufacturer/local training with recorded competency where available. This portfolio entry is evidence of study and safety reasoning, not practical clinical-device experience.
+Seeking a supervised EBME shadowing or an assistant/trainee role, learn the trust’s equipment library and incident procedures, and complete device-specific manufacturer/local training with recorded competency where available. This portfolio entry is evidence of study and safety reasoning, not practical clinical-device experience.
