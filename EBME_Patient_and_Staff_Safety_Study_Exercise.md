@@ -1,8 +1,8 @@
 # Patient and staff safety in medical-device management
 
 **Prepared for:** Chidera Dominic Iwuanyanwu  
-**Date prepared:** 29 September 2026  
-**Status:** Draft, AI-assisted independent-study exercise for personal review and revision  
+**Date prepared:** 23 September 2026  
+**Status:** Independent-study exercise for personal review and revision  
 **Scope:** Hypothetical infusion pump in a hospital equipment library; no real device, patient, service record or incident was used.
 
 > **Portfolio disclosure:** This is independent study and a simulated medical-device safety exercise. It does not demonstrate patient use, clinical validation, authorised device maintenance, device-specific competence, or conformity with ISO 14971.
@@ -62,11 +62,11 @@ This is a conceptual flow only. Actual preservation, decontamination, manufactur
 
 This exercise helped me connect engineering fault diagnosis with the wider safety process: recognising possible harm, preventing further use, involving clinical staff, recording traceable facts and escalating near misses. I also learned that a plausible technical check is not enough to declare a device safe; the actual device instructions, local policy, training and documented authorisation matter. I need supervised experience to understand the real workflow and device-specific checks.
 
-**My own notes after reading (complete before publishing):**
-- One detail I found in the MHRA guidance: [add your own observation and section/page].
+**My own notes after reading:**
+- One detail I found in the MHRA guidance: .
 - One question I would ask an EBME supervisor: [add your question].
 - One change I made to this draft after checking the sources: [describe your edit].
 
-## Next evidence to build
+## Next evidence to build upon
 
 Seek supervised EBME shadowing or an assistant/trainee role, learn the trust’s equipment library and incident procedures, and complete device-specific manufacturer/local training with recorded competency where available. This portfolio entry is evidence of study and safety reasoning, not practical clinical-device experience.
