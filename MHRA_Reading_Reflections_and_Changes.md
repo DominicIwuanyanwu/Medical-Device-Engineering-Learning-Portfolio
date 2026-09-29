@@ -1,6 +1,6 @@
 # MHRA *Managing Medical Devices* — my reading reflections and changes to the exercise
 
-**Dominic Iwuanyanwu | 29 September 2026**  
+**Chidera Dominic Iwuanyanwu | 29 September 2026**  
 **Basis:** My observations and questions from reading the MHRA guidance, edited for clarity and checked against the cited sources with AI assistance.  
 **Linked exercise:** [Simulated patient and staff safety exercise](EBME_Patient_and_Staff_Safety_Study_Exercise.md)
 
